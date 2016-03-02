@@ -1,1 +1,1 @@
-MPPC Sensor Power supply and sensor board.
+MPPC Sensor Power supply.
