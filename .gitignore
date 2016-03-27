@@ -1,0 +1,5 @@
+*.gbr
+*~
+~*
+OldVersions/
+*.lck
