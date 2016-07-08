@@ -97,6 +97,6 @@ void loop(){
 
 ![][mppcBack]
 
-[mppcBack]: https://raw.githubusercontent.com/Sawaiz/mppcHighVoltage/master/cad/renderings/mppcBack.jpg "View of Back of Board"
-[noShieldFront]: https://raw.githubusercontent.com/Sawaiz/mppcHighVoltage/master/cad/renderings/noShieldFront.jpg "Direct front view"
-[withEMIshield]: https://raw.githubusercontent.com/Sawaiz/mppcHighVoltage/master/cad/renderings/withEMIshield.jpg "Board rendering with EMI shield"
+[mppcBack]: cad/renderings/mppcBack.jpg "View of Back of Board"
+[noShieldFront]: cad/renderings/noShieldFront.jpg "Direct front view"
+[withEMIshield]: cad/renderings/withEMIshield.jpg "Board rendering with EMI shield"
