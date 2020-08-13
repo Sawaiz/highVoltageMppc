@@ -95,6 +95,9 @@ void loop(){
 }
 ```
 
+## Archived
+Archived, HV intergrated into MPPC interface from v1.1.
+
 ![][mppcBack]
 
 [mppcBack]: cad/renderings/mppcBack.jpg "View of Back of Board"
